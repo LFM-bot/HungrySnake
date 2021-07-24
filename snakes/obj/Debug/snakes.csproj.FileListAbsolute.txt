@@ -1,0 +1,121 @@
+C:\Users\Administrator\Desktop\snakes\snakes\bin\Debug\snakes.exe
+C:\Users\Administrator\Desktop\snakes\snakes\bin\Debug\snakes.pdb
+C:\Users\Administrator\Desktop\snakes\snakes\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\snakes\snakes\obj\Debug\snakes.Properties.Resources.resources
+C:\Users\Administrator\Desktop\snakes\snakes\obj\Debug\snakes.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\snakes\snakes\obj\Debug\snakes.exe
+C:\Users\Administrator\Desktop\snakes\snakes\obj\Debug\snakes.pdb
+C:\Users\Administrator\Desktop\snakes\snakes\obj\Debug\snakes.FormMain.resources
+C:\Users\Lenovo\Desktop\snakes\snakes\obj\Debug\snakes.exe
+C:\Users\Lenovo\Desktop\snakes\snakes\obj\Debug\snakes.pdb
+C:\Users\Lenovo\Desktop\snakes\snakes\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\snakes\snakes\obj\Debug\snakes.FormMain.resources
+C:\Users\Lenovo\Desktop\snakes\snakes\obj\Debug\snakes.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\snakes\snakes\obj\Debug\snakes.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\snakes\snakes\bin\Debug\snakes.exe
+C:\Users\Lenovo\Desktop\snakes\snakes\bin\Debug\snakes.pdb
+E:\各项文件\桌面文件\毛丽莉snakes\snakes\snakes\obj\Debug\snakes.exe
+E:\各项文件\桌面文件\毛丽莉snakes\snakes\snakes\obj\Debug\snakes.pdb
+E:\各项文件\桌面文件\毛丽莉snakes\snakes\snakes\bin\Debug\snakes.exe
+E:\各项文件\桌面文件\毛丽莉snakes\snakes\snakes\bin\Debug\snakes.pdb
+E:\各项文件\桌面文件\毛丽莉snakes\snakes\snakes\obj\Debug\ResolveAssemblyReference.cache
+E:\各项文件\桌面文件\毛丽莉snakes\snakes\snakes\obj\Debug\snakes.FormMain.resources
+E:\各项文件\桌面文件\毛丽莉snakes\snakes\snakes\obj\Debug\snakes.Properties.Resources.resources
+E:\各项文件\桌面文件\毛丽莉snakes\snakes\snakes\obj\Debug\snakes.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\毛丽莉snakes\snakes\snakes\obj\Debug\snakes.exe
+C:\Users\USER\Desktop\毛丽莉snakes\snakes\snakes\obj\Debug\snakes.pdb
+C:\Users\USER\Desktop\毛丽莉snakes\snakes\snakes\bin\Debug\snakes.exe
+C:\Users\USER\Desktop\毛丽莉snakes\snakes\snakes\bin\Debug\snakes.pdb
+C:\Users\USER\Desktop\毛丽莉snakes\snakes\snakes\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Desktop\毛丽莉snakes\snakes\snakes\obj\Debug\snakes.FormMain.resources
+C:\Users\USER\Desktop\毛丽莉snakes\snakes\snakes\obj\Debug\snakes.Properties.Resources.resources
+C:\Users\USER\Desktop\毛丽莉snakes\snakes\snakes\obj\Debug\snakes.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\snakes改\snakes\snakes\obj\Debug\snakes.exe
+C:\Users\USER\Desktop\snakes改\snakes\snakes\obj\Debug\snakes.pdb
+C:\Users\USER\Desktop\snakes改\snakes\snakes\bin\Debug\snakes.exe
+C:\Users\USER\Desktop\snakes改\snakes\snakes\bin\Debug\snakes.pdb
+C:\Users\USER\Desktop\snakes改\snakes\snakes\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Desktop\snakes改\snakes\snakes\obj\Debug\snakes.FormMain.resources
+C:\Users\USER\Desktop\snakes改\snakes\snakes\obj\Debug\snakes.Properties.Resources.resources
+C:\Users\USER\Desktop\snakes改\snakes\snakes\obj\Debug\snakes.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\snakes改2.0\snakes\snakes\obj\Debug\snakes.exe
+C:\Users\USER\Desktop\snakes改2.0\snakes\snakes\obj\Debug\snakes.pdb
+C:\Users\USER\Desktop\snakes改2.0\snakes\snakes\bin\Debug\snakes.exe
+C:\Users\USER\Desktop\snakes改2.0\snakes\snakes\bin\Debug\snakes.pdb
+C:\Users\USER\Desktop\snakes改2.0\snakes\snakes\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Desktop\snakes改2.0\snakes\snakes\obj\Debug\snakes.FormMain.resources
+C:\Users\USER\Desktop\snakes改2.0\snakes\snakes\obj\Debug\snakes.Properties.Resources.resources
+C:\Users\USER\Desktop\snakes改2.0\snakes\snakes\obj\Debug\snakes.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\snakes改4.0 - 副本\snakes\snakes\obj\Debug\snakes.exe
+C:\Users\USER\Desktop\snakes改4.0 - 副本\snakes\snakes\obj\Debug\snakes.pdb
+C:\Users\USER\Desktop\snakes改4.0 - 副本\snakes\snakes\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Desktop\snakes改4.0 - 副本\snakes\snakes\obj\Debug\snakes.FormMain.resources
+C:\Users\USER\Desktop\snakes改4.0 - 副本\snakes\snakes\obj\Debug\snakes.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\snakes改4.0 - 副本\snakes\snakes\obj\Debug\snakes.Properties.Resources.resources
+C:\Users\USER\Desktop\snakes改4.0 - 副本\snakes\snakes\bin\Debug\snakes.exe
+C:\Users\USER\Desktop\snakes改4.0 - 副本\snakes\snakes\bin\Debug\snakes.pdb
+C:\Users\USER\Desktop\snakes改4.0\snakes\snakes\obj\Debug\snakes.exe
+C:\Users\USER\Desktop\snakes改4.0\snakes\snakes\obj\Debug\snakes.pdb
+C:\Users\USER\Desktop\snakes改4.0\snakes\snakes\bin\Debug\snakes.exe
+C:\Users\USER\Desktop\snakes改4.0\snakes\snakes\bin\Debug\snakes.pdb
+C:\Users\USER\Desktop\snakes改4.0\snakes\snakes\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Desktop\snakes改4.0\snakes\snakes\obj\Debug\snakes.FormMain.resources
+C:\Users\USER\Desktop\snakes改4.0\snakes\snakes\obj\Debug\snakes.Properties.Resources.resources
+C:\Users\USER\Desktop\snakes改4.0\snakes\snakes\obj\Debug\snakes.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\snakes改4.0\snakes\snakes\bin\Debug\Interop.WMPLib.dll
+C:\Users\USER\Desktop\snakes改4.0\snakes\snakes\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\USER\Desktop\snakes改4.0\snakes\snakes\obj\Debug\Interop.WMPLib.dll
+C:\Users\USER\Desktop\snakes改4.0\snakes\snakes\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\USER\Desktop\snakes改4.0\snakes\snakes\obj\Debug\snakes.csproj.ResolveComReference.cache
+C:\Users\USER\Desktop\snakes改5.0\snakes\snakes\obj\Debug\Interop.WMPLib.dll
+C:\Users\USER\Desktop\snakes改5.0\snakes\snakes\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\USER\Desktop\snakes改5.0\snakes\snakes\obj\Debug\snakes.csproj.ResolveComReference.cache
+C:\Users\USER\Desktop\snakes改5.0\snakes\snakes\obj\Debug\snakes.exe
+C:\Users\USER\Desktop\snakes改5.0\snakes\snakes\obj\Debug\snakes.pdb
+C:\Users\USER\Desktop\snakes改5.0\snakes\snakes\bin\Debug\snakes.exe
+C:\Users\USER\Desktop\snakes改5.0\snakes\snakes\bin\Debug\snakes.pdb
+C:\Users\USER\Desktop\snakes改5.0\snakes\snakes\bin\Debug\Interop.WMPLib.dll
+C:\Users\USER\Desktop\snakes改5.0\snakes\snakes\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\USER\Desktop\snakes改5.0\snakes\snakes\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Desktop\snakes改5.0\snakes\snakes\obj\Debug\snakes.FormMain.resources
+C:\Users\USER\Desktop\snakes改5.0\snakes\snakes\obj\Debug\snakes.Properties.Resources.resources
+C:\Users\USER\Desktop\snakes改5.0\snakes\snakes\obj\Debug\snakes.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\snakes改5.0 - 副本\snakes\snakes\obj\Debug\Interop.WMPLib.dll
+C:\Users\USER\Desktop\snakes改5.0 - 副本\snakes\snakes\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\USER\Desktop\snakes改5.0 - 副本\snakes\snakes\obj\Debug\snakes.csproj.ResolveComReference.cache
+C:\Users\USER\Desktop\snakes改5.0 - 副本\snakes\snakes\obj\Debug\snakes.exe
+C:\Users\USER\Desktop\snakes改5.0 - 副本\snakes\snakes\obj\Debug\snakes.pdb
+C:\Users\USER\Desktop\snakes改5.0 - 副本\snakes\snakes\bin\Debug\snakes.exe
+C:\Users\USER\Desktop\snakes改5.0 - 副本\snakes\snakes\bin\Debug\snakes.pdb
+C:\Users\USER\Desktop\snakes改5.0 - 副本\snakes\snakes\bin\Debug\Interop.WMPLib.dll
+C:\Users\USER\Desktop\snakes改5.0 - 副本\snakes\snakes\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\USER\Desktop\snakes改5.0 - 副本\snakes\snakes\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Desktop\snakes改5.0 - 副本\snakes\snakes\obj\Debug\snakes.FormMain.resources
+C:\Users\USER\Desktop\snakes改5.0 - 副本\snakes\snakes\obj\Debug\snakes.Properties.Resources.resources
+C:\Users\USER\Desktop\snakes改5.0 - 副本\snakes\snakes\obj\Debug\snakes.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\snakes改5.1\snakes\snakes\obj\Debug\Interop.WMPLib.dll
+C:\Users\USER\Desktop\snakes改5.1\snakes\snakes\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\USER\Desktop\snakes改5.1\snakes\snakes\obj\Debug\snakes.csproj.ResolveComReference.cache
+C:\Users\USER\Desktop\snakes改5.1\snakes\snakes\obj\Debug\snakes.exe
+C:\Users\USER\Desktop\snakes改5.1\snakes\snakes\obj\Debug\snakes.pdb
+C:\Users\USER\Desktop\snakes改5.1\snakes\snakes\bin\Debug\snakes.exe
+C:\Users\USER\Desktop\snakes改5.1\snakes\snakes\bin\Debug\snakes.pdb
+C:\Users\USER\Desktop\snakes改5.1\snakes\snakes\bin\Debug\Interop.WMPLib.dll
+C:\Users\USER\Desktop\snakes改5.1\snakes\snakes\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\USER\Desktop\snakes改5.1\snakes\snakes\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Desktop\snakes改5.1\snakes\snakes\obj\Debug\snakes.FormMain.resources
+C:\Users\USER\Desktop\snakes改5.1\snakes\snakes\obj\Debug\snakes.Properties.Resources.resources
+C:\Users\USER\Desktop\snakes改5.1\snakes\snakes\obj\Debug\snakes.csproj.GenerateResource.Cache
+E:\各项文件\C#文件\6贪吃蛇\snakes改5.2\snakes\snakes\obj\Debug\Interop.WMPLib.dll
+E:\各项文件\C#文件\6贪吃蛇\snakes改5.2\snakes\snakes\obj\Debug\AxInterop.WMPLib.dll
+E:\各项文件\C#文件\6贪吃蛇\snakes改5.2\snakes\snakes\obj\Debug\snakes.csproj.ResolveComReference.cache
+E:\各项文件\C#文件\6贪吃蛇\snakes改5.2\snakes\snakes\obj\Debug\snakes.exe
+E:\各项文件\C#文件\6贪吃蛇\snakes改5.2\snakes\snakes\obj\Debug\snakes.pdb
+E:\各项文件\C#文件\6贪吃蛇\snakes改5.2\snakes\snakes\bin\Debug\snakes.exe
+E:\各项文件\C#文件\6贪吃蛇\snakes改5.2\snakes\snakes\bin\Debug\snakes.pdb
+E:\各项文件\C#文件\6贪吃蛇\snakes改5.2\snakes\snakes\bin\Debug\Interop.WMPLib.dll
+E:\各项文件\C#文件\6贪吃蛇\snakes改5.2\snakes\snakes\bin\Debug\AxInterop.WMPLib.dll
+E:\各项文件\C#文件\6贪吃蛇\snakes改5.2\snakes\snakes\obj\Debug\ResolveAssemblyReference.cache
+E:\各项文件\C#文件\6贪吃蛇\snakes改5.2\snakes\snakes\obj\Debug\snakes.FormMain.resources
+E:\各项文件\C#文件\6贪吃蛇\snakes改5.2\snakes\snakes\obj\Debug\snakes.Properties.Resources.resources
+E:\各项文件\C#文件\6贪吃蛇\snakes改5.2\snakes\snakes\obj\Debug\snakes.csproj.GenerateResource.Cache
